@@ -1,0 +1,45 @@
+{
+    "cookies": "kdt=bhWvCBCQsaRID09yBzDkDRrk2VwElkRDtO8WiL9p;twid=\"u=1200581087283556353\";ct0=9a4afa3f06f4fc5f5fd4179da621a0ab;auth_token=df6ed257e6866ef809c98d06b1a758226177afe9;",
+    "user": {
+        "id": "1200581087283556353",
+        "rest_id": "1200581087283556353",
+        "created_at": "2019-11-30 01:03:44+00:00",
+        "date": "2019-11-30 01:03:44+00:00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "description": "Bringing you the best of Twitter's DeFi thought leaders in one place! Not Financial Advice.",
+        "bio": "Bringing you the best of Twitter's DeFi thought leaders in one place! Not Financial Advice.",
+        "fast_followers_count": "0",
+        "favourites_count": "10",
+        "followers_count": "33",
+        "friends_count": "123",
+        "has_custom_timelines": "True",
+        "is_translator": "False",
+        "listed_count": "1",
+        "location": "Crypto Twitter",
+        "media_count": "0",
+        "name": "DefiDigestDaily",
+        "normal_followers_count": "33",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200581087283556353/1681347411",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1646316476947652608/Wg6GjoLg_normal.jpg",
+        "profile_interstitial_type": null,
+        "protected": "False",
+        "screen_name": "DefiDigestDaily",
+        "username": "DefiDigestDaily",
+        "statuses_count": "173",
+        "translator_type": "none",
+        "verified": "False",
+        "can_dm": "True",
+        "following": "False",
+        "community_role": null,
+        "notifications_enabled": "False",
+        "notifications": "False",
+        "possibly_sensitive": "False",
+        "pinned_tweets": null,
+        "profile_url": "https://twitter.com/DefiDigestDaily",
+        "is_blocked": "False"
+    }
+}

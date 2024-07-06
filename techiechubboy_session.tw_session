@@ -1,0 +1,45 @@
+{
+    "cookies": "kdt=30TFwNqYOdEpRUn3ligVFyM3vqKVpaMKtXmmISuO;guest_id=v1%3A171769403622581549;twid=\"u=1792200688799256576\";ct0=1725f273af489419277c58786fd4b29d;auth_token=d78a7d86e01a3093dd82c7720d0649dcb50da77a;",
+    "user": {
+        "id": "1792200688799256576",
+        "rest_id": "1792200688799256576",
+        "created_at": "2024-05-19 14:28:51+00:00",
+        "date": "2024-05-19 14:28:51+00:00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "description": null,
+        "bio": null,
+        "fast_followers_count": "0",
+        "favourites_count": "0",
+        "followers_count": "0",
+        "friends_count": "0",
+        "has_custom_timelines": "False",
+        "is_translator": "False",
+        "listed_count": "0",
+        "location": null,
+        "media_count": "0",
+        "name": "TechieChubBoy",
+        "normal_followers_count": "0",
+        "profile_banner_url": null,
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_interstitial_type": null,
+        "protected": "False",
+        "screen_name": "techiechubboy",
+        "username": "techiechubboy",
+        "statuses_count": "0",
+        "translator_type": "none",
+        "verified": "False",
+        "can_dm": null,
+        "following": "False",
+        "community_role": null,
+        "notifications_enabled": "False",
+        "notifications": "False",
+        "possibly_sensitive": "False",
+        "pinned_tweets": null,
+        "profile_url": "https://twitter.com/techiechubboy",
+        "is_blocked": "False"
+    }
+}

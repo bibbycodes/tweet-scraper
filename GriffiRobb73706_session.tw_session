@@ -1,0 +1,45 @@
+{
+    "cookies": "kdt=UFqAWLQA5hgQiKFFRqoFXsW7paDyMV5NNkHqmCE0;guest_id=v1%3A171791998584008032;twid=\"u=1792697754860339200\";ct0=ba2ddb93c4f9f3a7306aac166d1c2c7f;auth_token=0f9dc9443cdfb81d0e7323129b8d3e357ff295ba;",
+    "user": {
+        "id": "1792697754860339200",
+        "rest_id": "1792697754860339200",
+        "created_at": "2024-05-20 23:24:21+00:00",
+        "date": "2024-05-20 23:24:21+00:00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "description": null,
+        "bio": null,
+        "fast_followers_count": "0",
+        "favourites_count": "0",
+        "followers_count": "0",
+        "friends_count": "0",
+        "has_custom_timelines": "False",
+        "is_translator": "False",
+        "listed_count": "0",
+        "location": null,
+        "media_count": "0",
+        "name": "Robbi Griffi",
+        "normal_followers_count": "0",
+        "profile_banner_url": null,
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_interstitial_type": null,
+        "protected": "False",
+        "screen_name": "GriffiRobb73706",
+        "username": "GriffiRobb73706",
+        "statuses_count": "0",
+        "translator_type": "none",
+        "verified": "False",
+        "can_dm": null,
+        "following": "False",
+        "community_role": null,
+        "notifications_enabled": "False",
+        "notifications": "False",
+        "possibly_sensitive": "False",
+        "pinned_tweets": null,
+        "profile_url": "https://twitter.com/GriffiRobb73706",
+        "is_blocked": "False"
+    }
+}

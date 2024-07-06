@@ -1,0 +1,639 @@
+symbol,tweet_count,user_count,coin_gecko_id,Marketcap,FDV,Description,Categories,Catalysts,,Launched?,Active Users,Fees
+AGRS,11,9,agoras-currency-of-tau,188639065,440157819,"Agoras is an application over Tau-Chain, being first and foremost a smart currency offering predictable and verifiable contracts, and will offer several markets.
+
+AGORAS CODE-FOR-MONEY MARKET
+Eliminating the trust problem between programmers and entities who hire them. Can publish a smart contract that whoever supplies a code with a proof that it meets given requirements, wins coins automatically. Thanks to Tau language, such proofs can be trusted.
+
+COMPUTATIONAL RESOURCES MARKET
+Everyone will be able to rent out their computational resources (CPU, GPU, Disk) and get paid for it. Lack of many computers is a major bottleneck in many fields (especially medicine design) and cloud/supercomputing companies cannot compete with the higher quantity and lower cost that home computers can offer.
+
+DECENTRALIZED SMART SEARCH ENGINE
+With large enough network, Tau can crawl the web overnight. We will have a self-incentivizing search engine such that the data is shared by everyone and supporting nodes get paid.
+
+Agoras will allow smart contracts, that you can know their consequences beforehand. That thanks to the decidability of Tau-Chain.s language. Will also support true peer-to-peer contracts: business that need a private arena, can take place between two Agoras clients.
+
+Agoras smart currency is on presale now. There is a total amount of 42,000,000 intermediate coins (IDNI Agoras Tokens), that represent 100% of future Agoras coins.
+Starting from 01/05/2016 the price of one IDNI Agoras Tokens will be 20 cents (USD), going up 5% monthly.
+'Premine' for long-term development and 3rd party partners is 3%.
+All unsold coins up to Agoras. genesis will be destroyed. For example, if you hold 1% out of 42M coins, and only 21M are sold, then with the actual Agoras coins you will hold a fraction of 2% out of all coins.","Artificial Intelligence (AI), Ethereum Ecosystem, Smart Contract Platform",,,,,
+ATOR,6,3,airtor-protocol,99335680,135571850,"AirTor empowers The Onion Router (ToR) through on-chain incentives, and facilitates wider adoption of secure network relay protocols through our products. AirTor contributes the following to the existing ToR network:
+
+1) A framework for existing ToR relays to receive cryptocurrency rewards in our native currency, ATOR,
+ in accordance with their cumulative useful uptime, through a Proof-of-Uptime mechanism 
+
+2) The introduction of the AirTor Router Hotspot, a handheld device that enables users to connect their consumer devices, via WiFi, and route all their web traffic through ToR script-free 
+
+3) The rollout of the AirTor Relay, our own version of the ToR relay. It is designed for ToR routing and immediately interoperable with our ATOR Proof-of-Uptime framework, allowing non-technical users to 'mine' ATOR and contribute to web anonymity through ToR. Vision AirTor is dedicated to complete internet privacy. Though ToR can obscure a user's IP address from intermediary and destination routers, it does not entirely protect them from their Internet Service Provider (ISP) who can infer that they used ToR. Hence, the AirTor ecosystem eventually aims to empower users to replace part or all of their web-traffic route with Long-Range Radio (LoRa), through specialised hardware, to provide a new layer of physical independence. Our name summarizes this eventual vision of internet-independence, but AirTor believes evolution is revolution; our tech will add value at every stage and complement existing protocols to have the greatest positive impact.","DePIN, Privacy Coins, Ethereum Ecosystem",,,,,
+AKT,11,6,akash-network,1060153633,1060144662,"What is Akash Network?
+
+Akash Network is spearheading a paradigm shift in cloud computing, disrupting conventional cloud services, and pioneering a revolution in access to essential cloud resources. Leveraging the power of blockchain technology, Akash Network has developed an open-source, decentralized, marketplace for cloud computing, offering an unprecedented level of speed, efficiency, and affordability. This innovation is set to transform the way users perceive and utilize cloud services.
+What are the key features of Akash Network?
+
+
+
+Decentralized Cloud Computing: Akash Network, built on a blockchain-based framework, eliminates dependence on centralized cloud providers, offering superior security, transparency for users' data and transactions, and enhanced scalability.
+
+Permissionless Marketplace: By offering an open marketplace, Akash Network allows anyone with computational resources to become a cloud provider. Users can lease out their unused computing capacities, fostering competition and driving down prices.
+
+Flexible and Secure: With Akash, developers can effortlessly deploy applications and workloads. Moreover, the platform offers high security by using the native AKT token to ensure the integrity and authenticity of transactions on the network.
+
+Staking and Incentive Mechanism: Holders of the AKT token can participate in the network by staking their tokens. This not only helps secure the network but also earns them rewards.
+
+Interoperable Ecosystem: Akash Network is designed to be blockchain agnostic and is built on the Cosmos SDK, allowing for easy integration with other blockchain networks and fostering cross-chain collaborations.
+
+Eco-friendly: Compared to traditional cloud services, Akash Network is more energy-efficient. The network's consensus mechanism is based on Proof-of-Stake, which is considered to be more environmentally friendly than Proof-of-Work used by many other blockchain networks.
+
+
+
+How does GPU Marketplace benefit AI Hosting?
+
+One of the unique offerings of Akash Network is its GPU (Graphics Processing Unit) marketplace, which proves to be a game-changer for AI hosting. Leveraging its decentralized cloud, Akash Network provides a platform where individuals and businesses can rent out their idle GPU resources to those in need, particularly AI developers and researchers. Here’s why this is a groundbreaking feature:
+
+Cost-Effectiveness: Traditional cloud services are expensive, especially when renting GPUs for AI processing. Akash Network's open marketplace fosters competition, driving down the costs of GPU rentals and making it more affordable for AI researchers and developers.
+
+Scalability and Performance: With access to a decentralized pool of GPU resources, AI developers can easily scale their operations and computational power without the constraints of traditional cloud infrastructure. This translates to faster training and deployment of AI models.
+
+Security and Privacy: AI applications require processing sensitive data. Akash Network’s blockchain-based framework ensures that data is handled securely and transparently without the vulnerabilities of centralized systems.
+
+Democratizing AI: By lowering the barriers to entry in terms of cost and accessibility to GPU resources, Akash Network empowers a wider range of individuals and organizations, even at the early stage, to participate in AI development and hosting, contributing to innovation and technological advancement.
+
+Eco-Friendly Resource Utilization: By efficiently utilizing idle GPU resources through its marketplace, Akash Network dramatically minimizes environmental impact, in stark contrast to the significant ecological footprint associated with constructing and maintaining dedicated data centers. Akash Network's maximized resource efficiency enables it to play a pivotal role in promoting innovation, sustainability, and reducing carbon footprints.
+
+Global Accessibility: Akash Network’s global marketplace ensures that AI developers and researchers worldwide have equal access to GPU resources, irrespective of their geographical location.
+
+By providing an efficient, secure, and cost-effective alternative for AI hosting through its GPU marketplace, Akash Network is not only revolutionizing cloud computing but also making a substantial impact on the rapidly growing field of artificial intelligence.
+What is AKT Token?
+
+
+
+AKT is the native cryptocurrency token of Akash Network. It is integral for securing the network, executing transactions and contracts, and incentivizing community participation through staking and rewards. As the ecosystem grows, AKT is anticipated to play an increasingly vital role in enabling and securing decentralized cloud services.
+The AKT 2.0 proposal introduces Take Rate and Provider Incentives to kick-start growth. Join the discussion for updates.
+
+What are the prospects for Akash?
+
+Akash Network is at the forefront of a paradigm shift in cloud computing. With its decentralized nature, coupled with a growing demand for secure, open, and affordable cloud solutions, Akash Network is well-positioned to become a pivotal player in the cloud computing industry. The ongoing developments and partnerships are expected to contribute significantly to its adoption and utility in the near future.
+
+Join Akash Network to be part of this groundbreaking venture in reshaping the cloud computing landscape!
+
+Please note: This is not financial advice. It’s always recommended to conduct your own research before making any investments.","Osmosis Ecosystem, Proof of Stake (PoS), DePIN, Artificial Intelligence (AI), Cosmos Ecosystem",,,,,
+ALT,8,5,altlayer,559734978,5088499798,AltLayer is a decentralized protocol that facilitates the launch of native and restaked rollups with both optimistic and zk rollup stacks.,"Rollup, Binance Launchpool, Restaking, Rollups-as-a-Service (RaaS), BNB Chain Ecosystem, Ethereum Ecosystem",,,,,
+APT,6,4,aptos,4503152611,13270050379,"Aptos is a new, independent high-performance PoS Layer 1 project focused on delivering the safest and most scalable Layer 1 blockchain in the world. The Aptos blockchain leverages the Move programming language and the Move VM for application development, which are created and optimized for blockchain use cases.The team is comprised of the original creators, researchers, designers, and builders of Diem, the blockchain that was first built to serve this purpose. Aptos raised $200m from a16z, Multicoin, Binance and others. Aptos launched Devnet in mid March, incentivized testnet in late May and targets Q3 for mainnet launch. ","Proof of Stake (PoS), Multicoin Capital Portfolio, Coinbase Ventures Portfolio, FTX Holdings, Smart Contract Platform, Aptos Ecosystem",,,,,
+ARB,18,12,arbitrum,2704258980,21209874353,"Arbitrum is one of the leading Ethereum scaling solutions bringing cheap transactions to tens of thousands of users in an environment that feels very similar to Ethereum. It is an optimistic rollup and the leading L2 in terms of TVL. Some of the largest dApps live on Arbitrum include GMX, Radiant, Uniswap V3, and Gains Network.","Rollup, eGirl Capital Portfolio, Arbitrum Nova Ecosystem, Ethereum Ecosystem, Arbitrum Ecosystem, Layer 2 (L2)",,,,,
+ARKM,8,6,arkham,477428723,2414915140,"Arkham is a blockchain analysis platform that uses artificial intelligence (AI) to deanonymize the blockchain and on-chain data.
+
+The platform’s two main components are the Analytics Platform and Intel Exchange. The Analytics Platform covers analytics on various entities, exchanges, funds, whales and tokens. The Intel Exchange allows anyone to buy and sell address labels and other intelligence, either through bounties, auctions or the DATA Program.
+
+Unlike many other platforms that focus on specific blockchains or limited data sources, Arkham aims to provide total coverage of the blockchain by collecting and aggregating data from various chains. This is done leveraging its proprietary AI system, ULTRA. It allows users to analyze and gain insights from a comprehensive view of the crypto ecosystem.
+
+ The Arkham Intel Exchange is a decentralized marketplace where users can buy and sell crypto intelligence using the native currency, ARKM. This unique feature enables individuals and organizations to monetize their intelligence by offering bounties and conducting auctions. The exchange connects buyers and sellers, fostering a vibrant community of on-chain sleuths and ensuring the availability of valuable intelligence for market participants.
+
+Arkham Intelligence was founded by Miguel Morel in 2020. Miguel is a veteran entrepreneur in cryptocurrency markets. Miguel’s experience navigating new crypto markets makes him familiar with the intelligence needs of decision makers in government, venture capital, and trading. He is also an investor in a number of technology startups.
+
+Arkham Intelligence has also attracted some of the most prominent investors in the crypto space and beyond. Among them are an undisclosed OpenAI Co-Founder, Palantir Co-Founder Joe Lonsdale (8VC), Tim Draper (Draper Associates), Wintermute, GSR, and Geoff Lewis (Bedrock). The company raised over $10 million in two rounds of equity financing, and was valued at $150 million in its last round.","Coinbase Ventures Portfolio, Analytics, Artificial Intelligence (AI), Binance Launchpad, Ethereum Ecosystem",,,,,
+BERA,6,3,berachain-bera,,,The gas token of Berachain,,,,,,
+BTC,81,39,bitcoin,1217037260009,1301100760578,"Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was created by an anonymous individual/group under the name, Satoshi Nakamoto. The source code is available publicly as an open source project, anybody can look at it and be part of the developmental process.
+
+Bitcoin is changing the way we see money as we speak. The idea was to produce a means of exchange, independent of any central authority, that could be transferred electronically in a secure, verifiable and immutable way. It is a decentralized peer-to-peer internet currency making mobile payment easy, very low transaction fees, protects your identity, and it works anywhere all the time with no central authority and banks.
+
+Bitcoin is designed to have only 21 million BTC ever created, thus making it a deflationary currency. Bitcoin uses the <a href=""https://www.coingecko.com/en?hashing_algorithm=SHA-256"">SHA-256</a> hashing algorithm with an average transaction confirmation time of 10 minutes. Miners today are mining Bitcoin using ASIC chip dedicated to only mining Bitcoin, and the hash rate has shot up to peta hashes.
+
+Being the first successful online cryptography currency, Bitcoin has inspired other alternative currencies such as <a href=""https://www.coingecko.com/en/coins/litecoin"">Litecoin</a>, <a href=""https://www.coingecko.com/en/coins/peercoin"">Peercoin</a>, <a href=""https://www.coingecko.com/en/coins/primecoin"">Primecoin</a>, and so on.
+
+The cryptocurrency then took off with the innovation of the turing-complete smart contract by <a href=""https://www.coingecko.com/en/coins/ethereum"">Ethereum</a> which led to the development of other amazing projects such as <a href=""https://www.coingecko.com/en/coins/eos"">EOS</a>, <a href=""https://www.coingecko.com/en/coins/tron"">Tron</a>, and even crypto-collectibles such as <a href=""https://www.coingecko.com/buzz/ethereum-still-king-dapps-cryptokitties-need-1-billion-on-eos"">CryptoKitties</a>.","Proof of Work (PoW), FTX Holdings, Layer 1 (L1), Cryptocurrency",,,,,
+TAO,31,15,bittensor,4121972597,13629561135,"Bittensor is an open-source protocol that powers a decentralized, blockchain-based machine learning network. Machine learning models train collaboratively and are rewarded in TAO according to the informational value they offer the collective. TAO also grants external access, allowing users to extract information from the network while tuning its activities to their needs.
+
+Ultimately, BitTensors vision is to create a pure market for artificial intelligence, an incentivized arena in which consumers and producers of this valuable commodity can interact in a trustless, open and transparent context.
+
+Bittensor enables:
+
+-A novel, optimized strategy for the development and distribution of artificial intelligence technology by leveraging the possibilities of a distributed ledger. Specifically, its facilitation of open access/ownership, decentralized governance, and the ability to harness globally-distributed resources of computing power and innovation within an incentivized framework.
+
+-An open-source repository of machine intelligence, accessible to anyone, anywhere, thus creating the conditions for open and permission-less innovation on a global internet scale.
+
+-Distribution of rewards and network ownership to users in direct proportion to the value they have added.",Artificial Intelligence (AI),,,,,
+BLAST,10,8,blast-2,,,The only Ethereum L2 with native yield for ETH and stablecoins.,"Blast Ecosystem, Layer 2 (L2)",,,,,
+TIA,12,10,celestia,2797291433,17099177150,Celestia is a data availability network that allows developers to easily create a new blockchain.,"Coinbase Ventures Portfolio, Cosmos Ecosystem, Data Availability, Ecosistema Cosmos, eGirl Capital Portfolio, Modular Blockchain, Proof of Stake (PoS)",,,,,
+DOGE,8,6,dogecoin,20182429673,20182378973,"Dogecoin is a cryptocurrency based on the popular ""Doge"" Internet meme and features a Shiba Inu on its logo. Dogecoin is a <a href=""/coins/litecoin"">Litecoin</a> fork. Introduced as a ""joke currency"" on 6 December 2013, Dogecoin quickly developed its own online community and reached a capitalization of US$60 million in January 2014. Compared with other cryptocurrencies, Dogecoin had a fast initial coin production schedule: 100 billion coins were in circulation by mid-2015, with an additional 5.256 billion coins every year thereafter. As of 30 June 2015, the 100 billionth Dogecoin had been mined. 
+
+Dogecoin was created by Billy Markus from Portland, Oregon and  Jackson Palmer from Sydney, Australia. Both wanted to create a fun cryptocurrency that will appeal beyond the core Bitcoin audience. Dogecoin is primarily used as a tipping system on Reddit and Twitter where users tip each other for creating or sharing good content. The community is very active in organising fundraising activities for deserving causes.
+
+The developers of Dogecoin haven’t made any major changes to the coin since 2015. This means that Dogecoin could get left behind and is why Shibas are leaving Dogecoin to join more advanced platforms like Ethereum. One of Dogecoin strengths is its relaxed and fun-loving community. However, this is also a weakness because other currencies are way more professional.
+
+To purchase Dogecoin, it involves downloading a crypto wallet, setting up a crypto exchange account and then trading away for your desired crypto currency. Once we have set up an account with a DOGE currency exchange and deposited some funds, you are ready to start trading. ","BNB Chain Ecosystem, Criptovaluta, Cryptocurrency, Dog-Themed Coins, Ecosistema BNB Chain, Elon Musk-Inspired Coins, Meme, Proof of Work (PoW)",,,,,
+WIF,18,9,dogwifcoin,1553918916,1553918916,,"Solana Meme Coins, Dog-Themed Coins, Meme, Solana Ecosystem",,,,,
+DYM,8,5,dymension,920399376,6304105316,,"Cosmos Ecosystem, Cosmos-Ökosystem, Modular Blockchain, Rollups-as-a-Service (RaaS)",,,,,
+ACE,10,5,endurance,0,1953963012,"Fusionist is a AAA game that we have developed independently.
+
+The client utilizes the Unity engine, with the rendering segment employing the HDRP (High Definition Render Pipeline) to achieve AAA visual effects.
+
+The networking segment adopts real-time synchronization technology (KCP + flatbuffer protocol), and all computation results are determined by the backend to ensure there's no possibility of cheating.
+
+Additionally, we have developed a lightweight client using Unity WebGL technology, which can run on PCs or mobile devices, ensuring the maximization of user reachability.
+","Binance Launchpool, BNB Chain Ecosystem, Hệ sinh thái BNB Chain",,,,,
+ETH,59,35,ethereum,412099701961,412099701961,"Ethereum is a global, open-source platform for decentralized applications. In other words, the vision is to create a world computer that anyone can build applications in a decentralized manner; while all states and data are distributed and publicly accessible. Ethereum supports smart contracts in which developers can write code in order to program digital value. Examples of decentralized apps (dapps) that are built on Ethereum includes tokens, non-fungible tokens, decentralized finance apps, lending protocol, decentralized exchanges, and much more.
+
+On Ethereum, all transactions and smart contract executions require a small fee to be paid. This fee is called Gas. In technical terms, Gas refers to the unit of measure on the amount of computational effort required to execute an operation or a smart contract. The more complex the execution operation is, the more gas is required to fulfill that operation. Gas fees are paid entirely in Ether (ETH), which is the native coin of the blockchain. The price of gas can fluctuate from time to time depending on the network demand.","Proof of Stake (PoS), Multicoin Capital Portfolio, FTX Holdings, Layer 1 (L1), Ethereum Ecosystem, Smart Contract Platform",,,,,
+FET,20,7,fetch-ai,1883474082,2081186832,"Fetch.ai is delivering AI to the crypto economy. Digital Twins, powered by artificial intelligence, can provide automation to decentralized finance that can serve the needs of a single user or aggregate millions of data points for on-chain oracles. These agent-based systems provide greater flexibility, speed and crypto-economic security than existing oracle networks and represent the future of decentralized finance. This technology enables creation of personalized oracles that maintain user’s DeFi positions using decentralized and non-custodial protocols to increase the security and convenience of crypto asset management. The Fetch.ai network is an interchain protocol, based on the Cosmos-SDK, and uses a high-performance WASM-based smart contract language (Cosmwasm) to allow advanced cryptography and machine learning logic to be implemented on chain. This also allows the Fetch.ai network to serve as a layer-2 network for Ethereum and as an interchain bridge to the rest of the blockchain world.","DWF Labs Portfolio, Binance Launchpad, Ethereum Ecosystem, BNB Chain Ecosystem, NFT, Cryptocurrency, Cosmos Ecosystem, Artificial Intelligence (AI)",,,,,
+GLQ,13,8,graphlinq-protocol,27754147,40814920,,"Artificial Intelligence (AI), Ethereum Ecosystem, Polygon Ecosystem, Infrastructure, Business Services, Analytics",,,,,
+MAVIA,7,5,heroes-of-mavia,187305032,1560875270,"Heroes of Mavia is a mobile Web3 MMO Strategy game developed by Skrice Studios. The game takes place in a fantasy-themed island called Mavia, where players build bases on plots of land and battle neighboring bases and armies to earn in-game resources, such as Ruby. Ruby can be used to craft and trade Legendary Items (NFTs) such as skins, statues, consumables and more. 
+","Gaming Governance Token, Strategy Games, Gaming (GameFi), Ethereum Ecosystem",,,,,
+INJ,37,15,injective-protocol,3714204383,4201958368,,"Proof of Stake (PoS), Binance Launchpad, Layer 1 (L1), Avalanche Ecosystem, Polygon Ecosystem, Smart Contract Platform, Ethereum Ecosystem, BNB Chain Ecosystem, Cosmos Ecosystem",,,,,
+KAS,9,2,kaspa,3832414701,3832359844,"Kaspa is a proof-of-work cryptocurrency which implements the GHOSTDAG protocol. Unlike traditional blockchains, GHOSTDAG does not orphan blocks created in parallel, rather allows them to coexist and orders them in consensus. Whereby our blockchain is actually a blockDAG; you can see GHOSTDAG in action in a real time blockDAG visualizer). This generalization of Nakamoto consensus allows for secure operation while maintaining very high block rates (currently one block per second, aiming for 10/sec, dreaming of 100/sec) and minuscule confirmation times dominated by internet latency (cf. chapter 6 of the the paper for some initial benchmarks). The Kaspa implementation includes a lot of cool features and subprotocols including Reachability to query the DAG's topology, Block data pruning (with near-future plans for block header pruning), SPV proofs, and later subnetwork support which will make future implementation of layer 2 solutions much easier.","Proof of Work (PoW), Layer 1 (L1)",,,,,
+KEP,13,6,kelp-earned-points,0,,"$KEP (Kelp Earned Points) is a token for an EigenLayer Point earned by Kelp where 1 $KEP = 1 EL Point. Users have complete autonomy to store, trade, and utilize their accrued EigenLayer Points as they see fit.","Ethereum Ecosystem, Restaking",,,,,
+KUJI,11,2,kujira,516843109,516950879,Kujira is committed to levelling the playing field in decentralized finance by building dApps for regular crypto users.,"BNB Chain Ecosystem, Kujira Ecosystem, Optimism Ecosystem, Cosmos Ecosystem, Arbitrum Ecosystem, Ethereum Ecosystem",,,,,
+MANTA,14,8,manta-network,738254168,2941251665,Manta Pacific is the first EVM-equivalent ZK-application platform that is scalable and secure through Celestia DA and Polygon zkEVM.,"Layer 2 (L2), Manta Network Ecosystem, Multicoin Capital Portfolio, Binance Launchpool",,,,,
+MATIC,11,7,matic-network,10068326110,10846049034,"Polygon (Previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.
+
+Using Polygon, one can create Optimistic Rollup chains, ZK Rollup chains, stand alone chains or any other kind of infra required by the developer. 
+
+Polygon effectively transforms Ethereum into a full-fledged multi-chain system (aka Internet of Blockchains). This multi-chain system is akin to other ones such as Polkadot, Cosmos, Avalanche etc with the advantages of Ethereum’s security, vibrant ecosystem and openness.
+
+Nothing will change for the existing ecosystem built on the Plasma-POS chain. With Polygon, new features are being built around the existing proven technology to expand the ability to cater to diverse needs from the developer ecosystem. Polygon will continue to develop the core technology so that it can scale to a larger ecosystem. 
+
+The $MATIC token will continue to exist and will play an increasingly important role, securing the system and enabling governance.","Proof of Stake (PoS), Rollup, Coinbase Ventures Portfolio, FTX Holdings, Binance Launchpad, Alleged SEC Securities, Zero Knowledge (ZK), Layer 2 (L2), Harmony Ecosystem, Ethereum Ecosystem, Moonbeam Ecosystem, Moonriver Ecosystem, BNB Chain Ecosystem, Smart Contract Platform, Polygon Ecosystem",,,,,
+METIS,11,8,metis-token,576293465,1084646956,"Based on the spirit of Optimistic Rollup, Metis is building an easy-to-use, highly scalable, low-cost, and fully functional Layer 2 framework (Metis Rollup) to fully support the application and business migration from Web 2.0 to Web 3.0. Its scalable protocol supports a wide range of use cases including yield farming, DEX trading, and powering the gig economy via DApps that offer cheap and fast micropayments.
+Metis integrates the Decentralized Autonomous Company (DAC) framework within its Layer 2 infrastructure, a differentiating factor that makes it easy for any developers, builders, or community leaders to build their applications and communities. It also makes it easy to use pre-set tools to facilitate their development, manage collaboration, and enjoy the network effects of the world's largest decentralized finance ecosystem, without the costs and bottlenecks normally associated with Ethereum.
+Metis’ goal is to make building dApps and DACs on its platform so easy to do, even total blockchain novices can make it happen in a matter of minutes.","Rollup, DWF Labs Portfolio, Layer 2 (L2), Metis Ecosystem, Ethereum Ecosystem, BNB Chain Ecosystem",,,,,
+NMT,7,5,netmind-token,0,745810250,"NetMind Power leverages the underutilized or idle GPUs of users worldwide, creating a global network of computing power. This approach addresses the monopolistic control in the computing sector by harnessing a vast, untapped resource. Many individuals own GPUs for activities like gaming, video rendering, or crypto mining, which often remain underutilized. NetMind Power utilizes these GPUs, offering a solution that benefits both GPU owners and the AI community.
+
+The platform integrates large-scale distributed computing, incorporating grid computing, voluntary computing scheduling, and load balancing technologies. It provides a low-latency, well-connected, and easy-to-manage environment for distributed deep learning training and inference. The core components of NetMind Power include a training platform, an inference platform, and the NetMind Chain and Token (NMT). This utility token facilitates transactions within the platform.
+
+NetMind Power's innovative approach is particularly relevant in the current landscape, where AI has become a major technological advancement. The demand for high-performance computing is continuously rising, making access to necessary resources expensive and limited. By tapping into the pool of idle GPUs, NetMind Power offers a cost-effective and efficient solution for AI model training and inference.",BNB Chain Ecosystem,,,,,
+OLE,6,3,olecoin,0,846941,"Olecoin is a BEP 20 token leading the launching of the first Brazilian platform to tokenize soccer players future receives. New talents could create their profiles, we use real scouts to validate their informations and once it is approved we create their tokens promoting to our community and with investors. Tokens could be NFT, DeFi or ERC-20. We use the right technology according to the commercial contract signed with the new talent. Our range of business include good connections with the biggest clubs in the world. Olecoin has full potential to be one of the best sports blockchain projects",,,,,,
+OPSEC,8,6,opsec,183065144,193731064,"OpSec - AI and Decentralized Cloud Computing Unleashed.Elevate Your Decentralized Applications with AI-Powered Security Innovations 
+
+The mission is to explore, implement, and guide the creation of a secure, efficient, and decentralized digital ecosystem. OpSec addresses the limitations of current infrastructure, aiming to foster a more democratic, resilient, and secure internet.
+
+As a Decentralized physical infrastructure networks provider, OpSec utilizes the most advanced AI technology to build, maintain, and operate blockchain infrastructure that ensures the security and privacy of your blockchain applications.","DePIN, Ethereum Ecosystem",,,,,
+OP,7,3,optimism,4191259479,17891440323,,"Paradigm Portfolio, Layer 2 (L2), Optimism Ecosystem",,,,,
+ORAI,14,7,oraichain-token,256269902,286062439,"About Oraichain
+
+Oraichain is a data oracle platform that aggregates and connects Artificial Intelligence APIs to smart contracts, serving as a foundational base for the creation of new Dapps leveraging AI technologies. Oraichain is the world’s first AI-powered oracle aiming to revolutionize the AI, DeFi, and Blockchain industries.
+
+Unlike regular oracles that use raw data, Oraichain’s AI oracle uniquely uses AI APIs to consume or create data on-the-fly via virtual machines on smart contracts. Data quality, reliability and security are enhanced by using test cases, which help to avoid intermediaries, increase trust and open up unprecedented application functionalities. AI-powered oracles are the new generation of smart contracts.
+
+Beyond data oracles, Oraichain interconnects Artificial Intelligence and Blockchain technologies. With AI as the cornerstone, Oraichain ecosystem contains an AI API marketplace, a Data & Request Hub, Publisher Service, Training Service, and Dapp Hosting.
+
+Oraichain network provides the infrastructure and consensus mechanisms for Blockchain and AI training. These interconnected ecosystems accelerate the development of Web3, DeFi, enterprise and academia applications. yAI.finance is the first use case of Oraichain, a DeFi platform using unique AI-based features and strategies. Oraichain AI Marketplace offers AI products and APIs with the goal of becoming the one-stop-shop for Artificial Intelligence services.
+","DWF Labs Portfolio, Layer 1 (L1), Ethereum Ecosystem, BNB Chain Ecosystem, Cosmos Ecosystem, Big Data, Business Services, Artificial Intelligence (AI), Decentralized Finance (DeFi), Oracle",,,,,
+ORN,6,5,orion-protocol,64200215,186449269,"Orion is a DeFi platform providing B2B + B2C solutions for liquidity. It aims to solve the the largest problems in DeFi by aggregating the liquidity of the entire crypto market into one decentralized platform – pulling from every major centralized exchange, decentralized exchange, and swapping pool. ","BNB Chain Ecosystem, Ethereum Ecosystem, DaoMaker Ecosystem, Decentralized Finance (DeFi)",,,,,
+PAAL,15,7,paal-ai,352364930,541312537,"PAAL IS AN ADVANCED CHATBOT BUILT ON AI AND ML TECHNOLOGIES, DESIGNED TO STREAMLINE TASKS THAT TYPICALLY REQUIRE HUMAN INTELLECT, SUCH AS NATURAL LANGUAGE UNDERSTANDING, IMAGE RECOGNITION, DECISION-MAKING, AND PROBLEM-SOLVING.BETA LEGEND MARKETING HAS TAKEN CARE OF THE PROJECT FROM BEGINNING.
+
+PAAL IS A POWERFUL AI ECOSYSTEM, PREDICATED ON PRINCIPLES OF CONTINUOUS LEARNING AND ADAPTATION.
+
+PAAL AI, A TOKEN ON ETHEREUM, INCENTIVIZES HOLDERS WITH PROFIT SHARING AND TOKEN BUYBACKS TO DRIVE TOKEN DEMAND AND PRICE.
+USERS CAN EARN TOKENS THROUGH
+INTERACTIONS WITH OUR AI SERVICE, MAKING REFERRALS, AND CONTRIBUTING TO THE COMMUNITY.
+FINALLY, TOKENS ENABLE GOVERNANCE VOTING AND CAN BE STAKED FOR INTEREST, UNLOCKING PREMIUM FEATURES. WE ALSO ACCEPT ETHEREUM FOR SERVICE PURCHASES, OFFERING ENTICING DISCOUNTS.
+
+
+","PAAL AI, Artificial Intelligence (AI), Discord Bots, Telegram Apps, Ethereum Ecosystem",,,,,
+PENDLE,10,7,pendle,338056955,901174062,"Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization. ","Restaking, Liquid Restaking Governance Tokens, LRTfi, Real World Assets (RWA), Optimism Ecosystem, LSDFi, BNB Chain Ecosystem, Fixed Interest, Arbitrum Ecosystem, Ethereum Ecosystem, Avalanche Ecosystem, Olympus Pro, Derivatives, Decentralized Finance (DeFi), Automated Market Maker (AMM)",,,,,
+PEPE,25,12,pepe,1758440180,1758440180,"What is the project about?
+Pepe is a community based meme token surround the iconic meme Pepe the frog. Pepe aims to leverage the power of such an iconic meme to become the most memeable memecoin in existence. 
+
+What makes your project unique?
+Pepe is here to make memecoins great again. Ushering in a new paradigm for memecoins, Pepe represents the memecoin in it's purest simplicity. With zero taxes, liquidity locked forever, and contract immutable, Pepe is for the people, forever. Pepe is about culture, rallying together a community to have fun and enjoy memes, fueled purely by memetic power. 
+
+History of your project.
+Pepe was stealth launched on Friday, April 14th, 2023. 
+
+What’s next for your project?
+Pepe will focus on developing a tight-knit community around the token and building resources to enrich the communities knowledge and success in crypto through a token gated group, newsletter, and more tools. 
+
+What can your token be used for?
+Pepe can be used to speculate on the power of memes, and does not pretend to be anything more. 
+","Arbitrum Ecosystem, BNB Chain Ecosystem, Ethereum Ecosystem, Meme",,,,,
+PORTAL,9,7,portal-2,378234024,2263050198,Onboarding the first billion gamers into Web3.,"Gaming Platform, Ethereum Ecosystem",,,,,
+PUMP,7,3,pumpopoly,0,,"Pumpopoly is a virtual real estate simulator reminiscent of classic real estate board games. Playable on all devices, the game features pixel art on an animated HTML5 canvas. The design objectives are simple: Provide players and promoters a fun and entertaining way to collect tokens passively.
+
+Player movement:
+Players collect a salary from the treasury on every move. However, if they arrive at another player's land they must pay rent to the owner for the privilege of parking. Parking is free at all lands owned by the City of Pumpopolis.
+
+Philosophy:
+Pumpopoly features a dynamically expanding game world. Land is an unending resource for players to improve upon. New city owned land is added an exponentially higher price for your satisfaction. Pumpopoly's dynamic game expansion ensures that in-game movements always have a lower average cost relative to the salary provided by the treasury.
+
+Buildings:
+There are currently five property types within the game: vacant, hovel, small townhouse, large townhouse and executive tower. All property types have 256 pixel art variations. City lands are sold as vacant lots. Players may upgrade their land by building improvements. Each improvement provides an exponential increase in rent.
+
+Level up:
+Players must have a qualifying in-game credit score to build improvements on their land. In-game credit scores are determined by the number of lands owned and the total number of active invitees. Additionally, players earn 50% commissions on all city land purchased by their invitees.
+
+Tokens:
+Pumpopoly players can choose to sell their land on the in-game market or export their property to a non-fungible token. 
+
+All purchases within the game are denominated in native PUMPOPOLY fungible tokens. PUMPOPOLY is issued solely from the game contract. Similar to land prices, the price of PUMPOPOLY tokens sold by the game contract increases at an exponential rate as they are issued.",,,,,,
+PYTH,9,6,pyth-network,1057541668,7050277785,,"Multicoin Capital Portfolio, Infrastructure, Business Services, Decentralized Finance (DeFi), Oracle, Solana Ecosystem",,,,,
+RNDR,25,12,render-token,2905258847,4078725949,"Render Network Foundation The Render Network® is the leading provider of decentralized GPU based rendering solutions, revolutionizing the digital creation process. The network connects node operators looking to monetize their idle GPU compute power with artists looking to scale intensive 3D rendering work and applications to the cloud. Through a decentralized peer-to-peer network, the Render Network achieves unprecedented levels of scale, speed, and economic efficiency. On top of a decentralized GPU computing network, Render provides a platform for artists and developers to build services and applications for the emerging digital economy, including next generation digital rights management (DRM), artificial intelligence (AI), and virtual assets (NFTs).	","Multicoin Capital Portfolio, Solana Ecosystem, DePIN, Artificial Intelligence (AI), Ethereum Ecosystem, Metaverse, NFT, Polygon Ecosystem",,,,,
+ROSE,6,3,rose,0,409067,"Rose is a liquidity protocol on Aurora composed of a stablecoin & wrapped assets exchange, and a Collateralized Debt Position (CDP) based stablecoin utilizing interest bearing tokens as collateral.
+
+The first product is the stableswap, the first Automated Market Maker (AMM) decentralized exchange on Aurora to trade pegged assets such as stablecoins and wrapped assets against each other with low slippage and minimum trading fees.
+
+Rose Dollar, RUSD, is a USD pegged stablecoin that users are able to mint by depositing interest-bearing tokens (ibTKN). There is utility for the RUSD from the get-go because users will be able to provide RUSD as liquidity and earn ROSE tokens as rewards from the liquidity mining. Users will be able to leverage their assets by borrowing RUSD and then switching between whichever stablecoin they need to earn more yield or acquire more assets.",,,,,,
+SAVM,10,9,satoshivm,53114793,,,"Bitcoin Ecosystem, Camada 2 (L2), Conhecimento Zero (ZK), Ecossistema Ethereum, Ethereum Ecosystem, Layer 2 (L2), Rollup, Zero Knowledge (ZK)",,,,,
+AI,10,7,sleepless-ai,237090942,1823776478,,"Artificial Intelligence (AI), Binance Launchpool, BNB Chain Ecosystem, Ecossistema BNB Chain, Inteligência Artificial (IA), Launchpool Binance",,,,,
+SOL,28,20,solana,57642316179,74310881829,"Solana is a highly functional open source project that banks on blockchain technology’s permissionless nature to provide decentralized finance (DeFi) solutions. It is a layer 1 network that offers fast speeds and affordable costs. While the idea and initial work on the project began in 2017, Solana was officially launched in March 2020 by the Solana Foundation with headquarters in Geneva, Switzerland.","Proof of Stake (PoS), Multicoin Capital Portfolio, FTX Holdings, Alleged SEC Securities, Layer 1 (L1), Solana Ecosystem, Smart Contract Platform",,,,,
+STRK,17,10,starknet,1383939626,19010159705,"StarkNet is a permissionless decentralized Layer 2 (L2) validity rollup, built to allow Ethereum to scale via cryptographic protocols called STARKs, without compromising Ethereum’s core principles of decentralization, transparency, inclusivity and security. The StarkNet Token is needed to operate the ecosystem, maintain and secure it, decide on its values and strategic goals, and direct its evolution. This token will be required for (i) governance, (ii) payment of transaction fees on StarkNet, and (iii) participation in StarkNet’s consensus mechanism.","Layer 2 (L2), Rollup, Multicoin Capital Portfolio, Coinbase Ventures Portfolio, Paradigm Portfolio, Starknet Ecosystem, Ethereum Ecosystem",,,,,
+SUI,8,5,sui,1987080187,16143092040,"Sui is a layer-1 blockchain optimizing for low-latency blockchain transfers. Its focus on instant transaction finality and high-speed transaction throughput make Sui a suitable platform for on-chain use cases like games, finance, and other real-time applications. Sui’s smart contracts are written in Move, a Rust-based programming language that prioritizes fast and secure transaction executions. Sui’s “horizontal scaling” is achieved through a process called “transaction parallelization,” allowing “parallel agreement” across different, independent types of transactions. Thanks to the organization of data as independent objects, transactions that are independent of one another are validated by Sui nodes via byzantine fault-tolerant proof-of-stake (PoS) consensus mechanism.","Coinbase Ventures Portfolio, Binance Launchpool, Sui Ecosystem, Smart Contract Platform, Layer 1 (L1)",,,,,
+UNI,10,5,uniswap,9406574085,12479424333,"UNI is the governance token for Uniswap, an Automated Market Marker DEX on the Ethereum blockchain. The UNI token allows token holders to participate in the governance of the protocol. Key decisions such as usage of the treasury or future upgrades can be decided through a governance vote.","Near Protocol Ecosystem, Defi Pulse Index (DPI), Coinbase Ventures Portfolio, Paradigm Portfolio, Harmony Ecosystem, Optimism Ecosystem, Ethereum Ecosystem, Arbitrum Ecosystem, Avalanche Ecosystem, Polygon Ecosystem, BNB Chain Ecosystem, Gnosis Chain Ecosystem, Automated Market Maker (AMM), Exchange-based Tokens, Governance, Decentralized Exchange (DEX), Yield Farming, Decentralized Finance (DeFi)",,,,,
+WNT,6,3,wicrypt,14173951,72539591,"The Smart WiFi Network Powered By You. Easily create your own hotspot network at home, at your business, or on-the-go and get paid!","Arbitrum Ecosystem, DePIN, Polygon Ecosystem",,,,,
+ZETA,6,5,zetachain,569358325,5056281149,"What Is ZetaChain (ZETA)?
+
+ZetaChain is a novel L1 that has chain-agnostic interoperability built-in (EVM-compatible, Cosmos/IBC, Bitcoin, Dogecoin, Tron, etc.). Developers currently use ZetaChain’s messaging capabilities to send data and native value (without wrapping assets) between any chains. ZetaChain will also support native smart contracts, which let developers build omnichain dApps that orchestrate funds across chains from a single contract.
+
+Who Are the Founders of ZetaChain?
+
+ZetaChain’s founder was an early Coinbase employee and one of the creators of Basic Attention Token (BAT). Investors include all major market makers, top exchanges, early Coinbase and Binance employees including Dan Romero, Sam Rosenblum, and John Yi, as well as major contributors to some of the industry’s most widely adopted protocols and well known funds, including Polygon’s JD Kanani. Advisors to the project include Coinbase’s first Head of People Nathalie McGrath who scaled the industry leading exchange from 10 employees to over 800, and Juan Suarez, who served as in-house counsel at Coinbase from 2013 to 2022.
+
+What Makes ZetaChain Unique?
+
+ZetaChain is a blockchain that connects everything. It enables interoperability between any blockchains or layers by providing cross-chain value transfer and message delivery, as well as native omnichain smart contract support. Applications built on ZetaChain — omnichain dApps (odApps) — can leverage liquidity and data on multiple networks and read and update state on all connected networks. ZetaChain’s native omnichain smart contract platform lets developers deploy contracts with the same ease as developing dApps for a single network like Ethereum, that orchestrate data and value across many or all chains. ZetaChain’s connectivity is chain-agnostic and can connect to and bring smart contract capabilities to even non-smart-contract chains like Bitcoin and Dogecoin. ","Akıllı Sözleşme Platformu, BNB Chain Ecosystem, BNB Chain Ekosistemi, Ethereum Ecosystem, Ethereum Ekosistemi, Layer 1 (L1), Smart Contract Platform, ZetaChain Ecosystem",,,,,
+AARK,1,1,,,,,,,,,,
+AAVE,2,1,,,,,,,,,,
+ABT,1,1,,,,,,,,,,
+ACA,1,1,,,,,,,,,,
+ADA,4,2,,,,,,,,,,
+AEG,1,1,,,,,,,,,,
+AERO,2,1,,,,,,,,,,
+AETHIR,2,1,,,,,,,,,,
+AEVO,2,1,,,,,,,,,,
+AGC,5,3,,,,,,,,,,
+AGI,3,2,,,,,,,,,,
+AGIX,7,4,,,,,,,,,,
+AGLA,1,1,,,,,,,,,,
+AGNG,2,1,,,,,,,,,,
+AGUNG,1,1,,,,,,,,,,
+AIOZ,2,2,,,,,,,,,,
+AIPG,2,2,,,,,,,,,,
+AIRB,1,1,,,,,,,,,,
+AIT,3,2,,,,,,,,,,
+AIX,2,2,,,,,,,,,,
+ALEA,2,1,,,,,,,,,,
+ALEPH,1,1,,,,,,,,,,
+ALGO,1,1,,,,,,,,,,
+ALICE,1,1,,,,,,,,,,
+ALPEH,1,1,,,,,,,,,,
+ALPH,1,1,,,,,,,,,,
+AMO,1,1,,,,,,,,,,
+AMPL,1,1,,,,,,,,,,
+AMZN,1,1,,,,,,,,,,
+ANALOG,1,1,,,,,,,,,,
+ANALOS,1,1,,,,,,,,,,
+ANKR,2,2,,,,,,,,,,
+AQTIS,4,2,,,,,,,,,,
+AR,3,3,,,,,,,,,,
+ARC,3,2,,,,,,,,,,
+ASTR,3,2,,,,,,,,,,
+ATOM,2,2,,,,,,,,,,
+ATPLAY,1,1,,,,,,,,,,
+AVAX,5,5,,,,,,,,,,
+AVL,1,1,,,,,,,,,,
+AXL,4,2,,,,,,,,,,
+AXS,1,1,,,,,,,,,,
+AZERO,2,1,,,,,,,,,,
+BAI,4,3,,,,,,,,,,
+BAL,1,1,,,,,,,,,,
+BANANA,2,2,,,,,,,,,,
+BBANK,1,1,,,,,,,,,,
+BBL,1,1,,,,,,,,,,
+BBOT,1,1,,,,,,,,,,
+BEAM,4,2,,,,,,,,,,
+BEAR,1,1,,,,,,,,,,
+BEN,1,1,,,,,,,,,,
+BEPE,1,1,,,,,,,,,,
+BETS,1,1,,,,,,,,,,
+BGT,1,1,,,,,,,,,,
+BINU,1,1,,,,,,,,,,
+BITB,2,2,,,,,,,,,,
+BITO,1,1,,,,,,,,,,
+BLOB,1,1,,,,,,,,,,
+BLSTR,1,1,,,,,,,,,,
+BLUR,2,1,,,,,,,,,,
+BOBA,1,1,,,,,,,,,,
+BONK,5,4,,,,,,,,,,
+BRAWL,3,2,,,,,,,,,,
+BSSB,1,1,,,,,,,,,,
+CA,1,1,,,,,,,,,,
+CACAO,2,1,,,,,,,,,,
+CAD,3,2,,,,,,,,,,
+CAH,2,2,,,,,,,,,,
+CANTO,1,1,,,,,,,,,,
+CBR,1,1,,,,,,,,,,
+CELL,1,1,,,,,,,,,,
+CELO,1,1,,,,,,,,,,
+CFG,1,1,,,,,,,,,,
+CGPT,1,1,,,,,,,,,,
+CHEEL,1,1,,,,,,,,,,
+CHNG,4,1,,,,,,,,,,
+CLP,1,1,,,,,,,,,,
+COF,1,1,,,,,,,,,,
+COIN,1,1,,,,,,,,,,
+COMP,2,2,,,,,,,,,,
+COTI,1,1,,,,,,,,,,
+CPOOL,3,2,,,,,,,,,,
+CQT,1,1,,,,,,,,,,
+CRAMER,1,1,,,,,,,,,,
+CREDI,1,1,,,,,,,,,,
+CREO,1,1,,,,,,,,,,
+CRO,1,1,,,,,,,,,,
+CRV,1,1,,,,,,,,,,
+CSIX,1,1,,,,,,,,,,
+CTSI,1,1,,,,,,,,,,
+CUDOS,2,2,,,,,,,,,,
+CYBER,1,1,,,,,,,,,,
+DAG,1,1,,,,,,,,,,
+DAI,4,3,,,,,,,,,,
+DCARD,2,1,,,,,,,,,,
+DESO,1,1,,,,,,,,,,
+DEXE,1,1,,,,,,,,,,
+DFLOW,3,3,,,,,,,,,,
+DFS,1,1,,,,,,,,,,
+DGI,4,1,,,,,,,,,,
+DIONE,3,2,,,,,,,,,,
+DNODE,2,2,,,,,,,,,,
+DNX,1,1,,,,,,,,,,
+DOT,2,1,,,,,,,,,,
+DSRUN,1,1,,,,,,,,,,
+DYDX,5,5,,,,,,,,,,
+DZHV,1,1,,,,,,,,,,
+EBAY,1,1,,,,,,,,,,
+EGP,1,1,,,,,,,,,,
+EIGEN,4,3,,,,,,,,,,
+ELO,1,1,,,,,,,,,,
+EMC,3,2,,,,,,,,,,
+ENKI,4,3,,,,,,,,,,
+ENQAI,3,3,,,,,,,,,,
+EPIK,1,1,,,,,,,,,,
+ES_F,1,1,,,,,,,,,,
+ESE,1,1,,,,,,,,,,
+ETHX,1,1,,,,,,,,,,
+FAR,1,1,,,,,,,,,,
+FETBTC,1,1,,,,,,,,,,
+FI,4,1,,,,,,,,,,
+FIL,4,4,,,,,,,,,,
+FINGER,2,2,,,,,,,,,,
+FLOKI,5,4,,,,,,,,,,
+FLT,2,1,,,,,,,,,,
+FREE,1,1,,,,,,,,,,
+FRM,1,1,,,,,,,,,,
+FRXETH,2,1,,,,,,,,,,
+FXS,1,1,,,,,,,,,,
+GAL,3,2,,,,,,,,,,
+GALA,2,2,,,,,,,,,,
+GBTC,2,1,,,,,,,,,,
+GEAR,1,1,,,,,,,,,,
+GF,2,1,,,,,,,,,,
+GFAL,3,2,,,,,,,,,,
+GFI,1,1,,,,,,,,,,
+GHX,1,1,,,,,,,,,,
+GLM,2,1,,,,,,,,,,
+GLMR,1,1,,,,,,,,,,
+GLORY,1,1,,,,,,,,,,
+GMX,2,2,,,,,,,,,,
+GNO,1,1,,,,,,,,,,
+GODS,1,1,,,,,,,,,,
+GRAIL,1,1,,,,,,,,,,
+GRASS,1,1,,,,,,,,,,
+GRG,1,1,,,,,,,,,,
+GRP,1,1,,,,,,,,,,
+GRT,1,1,,,,,,,,,,
+GSWIFT,3,3,,,,,,,,,,
+GTAI,1,1,,,,,,,,,,
+GXC,2,1,,,,,,,,,,
+HANA,5,3,,,,,,,,,,
+HASH,3,2,,,,,,,,,,
+HBAR,1,1,,,,,,,,,,
+HELLO,1,1,,,,,,,,,,
+HIVE,1,1,,,,,,,,,,
+HNT,2,2,,,,,,,,,,
+HONEY,4,3,,,,,,,,,,
+HORSE,2,2,,,,,,,,,,
+HTR,1,1,,,,,,,,,,
+ID,3,3,,,,,,,,,,
+IDIA,1,1,,,,,,,,,,
+IMX,4,3,,,,,,,,,,
+INIT,1,1,,,,,,,,,,
+INS,2,2,,,,,,,,,,
+INSP,1,1,,,,,,,,,,
+IOTX,1,1,,,,,,,,,,
+IX,3,3,,,,,,,,,,
+IXS,3,2,,,,,,,,,,
+JITO,1,1,,,,,,,,,,
+JOE,1,1,,,,,,,,,,
+JTO,2,1,,,,,,,,,,
+JUP,5,4,,,,,,,,,,
+KATA,1,1,,,,,,,,,,
+KDA,1,1,,,,,,,,,,
+KOIN,2,1,,,,,,,,,,
+KZA,1,1,,,,,,,,,,
+LADYS,1,1,,,,,,,,,,
+LAI,1,1,,,,,,,,,,
+LAKE,3,2,,,,,,,,,,
+LAND,1,1,,,,,,,,,,
+LCX,2,2,,,,,,,,,,
+LDO,1,1,,,,,,,,,,
+LEOX,1,1,,,,,,,,,,
+LFG,1,1,,,,,,,,,,
+LINEA,1,1,,,,,,,,,,
+LINK,5,3,,,,,,,,,,
+LISTA,2,2,,,,,,,,,,
+LTC,1,1,,,,,,,,,,
+LUNA,3,3,,,,,,,,,,
+LXPS,1,1,,,,,,,,,,
+MAGA,1,1,,,,,,,,,,
+MAGIC,3,2,,,,,,,,,,
+MANA,1,1,,,,,,,,,,
+MARA,1,1,,,,,,,,,,
+MASA,1,1,,,,,,,,,,
+MASQ,2,1,,,,,,,,,,
+MEME,1,1,,,,,,,,,,
+METAL,2,2,,,,,,,,,,
+METH,1,1,,,,,,,,,,
+MGP,1,1,,,,,,,,,,
+MIA,3,2,,,,,,,,,,
+MIND,1,1,,,,,,,,,,
+MINER,5,1,,,,,,,,,,
+MKR,3,3,,,,,,,,,,
+ML,1,1,,,,,,,,,,
+MLT,1,1,,,,,,,,,,
+MNT,5,4,,,,,,,,,,
+MNW,1,1,,,,,,,,,,
+MOG,1,1,,,,,,,,,,
+MON,3,2,,,,,,,,,,
+MONAD,1,1,,,,,,,,,,
+MOROS,5,3,,,,,,,,,,
+MOZ,4,2,,,,,,,,,,
+MPL,1,1,,,,,,,,,,
+MSTR,1,1,,,,,,,,,,
+MTLX,1,1,,,,,,,,,,
+MUBI,2,2,,,,,,,,,,
+MVL,1,1,,,,,,,,,,
+MVX,1,1,,,,,,,,,,
+MXM,1,1,,,,,,,,,,
+MYRIA,3,1,,,,,,,,,,
+MYRO,2,1,,,,,,,,,,
+NAKA,4,1,,,,,,,,,,
+NAVI,3,2,,,,,,,,,,
+NEAR,2,2,,,,,,,,,,
+NEXA,2,1,,,,,,,,,,
+NGL,2,2,,,,,,,,,,
+NKL,1,1,,,,,,,,,,
+NLK,1,1,,,,,,,,,,
+NMR,2,1,,,,,,,,,,
+NOT,1,1,,,,,,,,,,
+NVDA,2,1,,,,,,,,,,
+NXRA,1,1,,,,,,,,,,
+OBOT,3,2,,,,,,,,,,
+OCEAN,2,1,,,,,,,,,,
+OCTA,2,2,,,,,,,,,,
+ODGN,1,1,,,,,,,,,,
+OHM,1,1,,,,,,,,,,
+OLAS,3,2,,,,,,,,,,
+OM,2,2,,,,,,,,,,
+ONDO,5,4,,,,,,,,,,
+ONE,1,1,,,,,,,,,,
+OPTI,2,2,,,,,,,,,,
+ORB,2,2,,,,,,,,,,
+ORBIT,2,2,,,,,,,,,,
+ORBK,1,1,,,,,,,,,,
+ORDI,5,3,,,,,,,,,,
+ORDS,3,2,,,,,,,,,,
+ORNJ,1,1,,,,,,,,,,
+OSMO,1,1,,,,,,,,,,
+PACM,1,1,,,,,,,,,,
+PALM,1,1,,,,,,,,,,
+PAWS,1,1,,,,,,,,,,
+PBUX,1,1,,,,,,,,,,
+PEAQ,7,5,,,,,,,,,,
+PIXEL,5,3,,,,,,,,,,
+PLANET,2,1,,,,,,,,,,
+PLEB,1,1,,,,,,,,,,
+PLENA,1,1,,,,,,,,,,
+PNG,2,2,,,,,,,,,,
+POKT,1,1,,,,,,,,,,
+POLYX,2,2,,,,,,,,,,
+PONKE,1,1,,,,,,,,,,
+PORK,1,1,,,,,,,,,,
+PRCL,4,4,,,,,,,,,,
+PRIME,5,3,,,,,,,,,,
+PROPC,3,1,,,,,,,,,,
+PRYZM,1,1,,,,,,,,,,
+PYR,2,2,,,,,,,,,,
+QNT,1,1,,,,,,,,,,
+QQQ,2,2,,,,,,,,,,
+QUBIC,3,2,,,,,,,,,,
+QUIDD,1,1,,,,,,,,,,
+RAIL,2,1,,,,,,,,,,
+RAY,1,1,,,,,,,,,,
+RBN,4,4,,,,,,,,,,
+RBX,1,1,,,,,,,,,,
+RDNT,4,2,,,,,,,,,,
+RDYX,1,1,,,,,,,,,,
+RENDER,2,2,,,,,,,,,,
+REVV,1,1,,,,,,,,,,
+RIO,4,2,,,,,,,,,,
+RLB,3,3,,,,,,,,,,
+RLC,1,1,,,,,,,,,,
+ROKO,3,2,,,,,,,,,,
+RON,5,3,,,,,,,,,,
+ROSY,1,1,,,,,,,,,,
+ROUTE,2,1,,,,,,,,,,
+RUNE,4,4,,,,,,,,,,
+RVF,4,3,,,,,,,,,,
+RWN,5,4,,,,,,,,,,
+RYZE,1,1,,,,,,,,,,
+SAITO,1,1,,,,,,,,,,
+SAND,4,4,,,,,,,,,,
+SCALE,1,1,,,,,,,,,,
+SCROLL,2,2,,,,,,,,,,
+SEI,4,2,,,,,,,,,,
+SERSH,1,1,,,,,,,,,,
+SFUND,3,1,,,,,,,,,,
+SHFL,2,1,,,,,,,,,,
+SHIB,5,3,,,,,,,,,,
+SHIDO,2,2,,,,,,,,,,
+SHU,1,1,,,,,,,,,,
+SIDUS,1,1,,,,,,,,,,
+SKL,1,1,,,,,,,,,,
+SLN,1,1,,,,,,,,,,
+SMRT,3,1,,,,,,,,,,
+SNEK,1,1,,,,,,,,,,
+SNOW,1,1,,,,,,,,,,
+SNS,1,1,,,,,,,,,,
+SNX,4,3,,,,,,,,,,
+SOAI,1,1,,,,,,,,,,
+SOLE,1,1,,,,,,,,,,
+SOUTH,1,1,,,,,,,,,,
+SPX,5,1,,,,,,,,,,
+SPY,2,2,,,,,,,,,,
+SRETH,1,1,,,,,,,,,,
+SRM,1,1,,,,,,,,,,
+SSX,1,1,,,,,,,,,,
+STETH,3,2,,,,,,,,,,
+STOS,1,1,,,,,,,,,,
+STRDY,1,1,,,,,,,,,,
+SUSDE,1,1,,,,,,,,,,
+SUSHI,2,2,,,,,,,,,,
+SYN,1,1,,,,,,,,,,
+SYNC,1,1,,,,,,,,,,
+TEA,1,1,,,,,,,,,,
+THETA,2,2,,,,,,,,,,
+TKO,4,3,,,,,,,,,,
+TON,1,1,,,,,,,,,,
+TOR,1,1,,,,,,,,,,
+TOSHI,1,1,,,,,,,,,,
+TOTAL,1,1,,,,,,,,,,
+TRADE,2,2,,,,,,,,,,
+TREST,1,1,,,,,,,,,,
+TRIAS,3,1,,,,,,,,,,
+TRUMP,5,2,,,,,,,,,,
+TRX,1,1,,,,,,,,,,
+TSUKA,1,1,,,,,,,,,,
+TURBO,1,1,,,,,,,,,,
+TUSD,1,1,,,,,,,,,,
+TWT,2,2,,,,,,,,,,
+UHT,1,1,,,,,,,,,,
+UNIETH,1,1,,,,,,,,,,
+USDC,6,5,,,,,,,,,,
+USDM,1,1,,,,,,,,,,
+USDT,6,4,,,,,,,,,,
+VAULT,1,1,,,,,,,,,,
+VEC,2,2,,,,,,,,,,
+VEIL,2,1,,,,,,,,,,
+VET,1,1,,,,,,,,,,
+VETME,2,1,,,,,,,,,,
+VINE,1,1,,,,,,,,,,
+VMINT,2,1,,,,,,,,,,
+VRA,3,1,,,,,,,,,,
+W,2,2,,,,,,,,,,
+WAS,1,1,,,,,,,,,,
+WAVES,1,1,,,,,,,,,,
+WAXP,2,1,,,,,,,,,,
+WBAI,4,3,,,,,,,,,,
+WBTC,5,3,,,,,,,,,,
+WCOMAI,1,1,,,,,,,,,,
+WGT,1,1,,,,,,,,,,
+WHRH,2,1,,,,,,,,,,
+WIFI,2,2,,,,,,,,,,
+WILD,1,1,,,,,,,,,,
+WIT,1,1,,,,,,,,,,
+WLD,2,2,,,,,,,,,,
+WOO,4,2,,,,,,,,,,
+WPAD,1,1,,,,,,,,,,
+XAI,4,3,,,,,,,,,,
+XCAD,1,1,,,,,,,,,,
+XMR,1,1,,,,,,,,,,
+XNA,2,1,,,,,,,,,,
+XRP,1,1,,,,,,,,,,
+YBX,2,2,,,,,,,,,,
+YGG,1,1,,,,,,,,,,
+YOUR,1,1,,,,,,,,,,
+ZANO,1,1,,,,,,,,,,
+ZEPH,2,1,,,,,,,,,,
+ZERO,2,2,,,,,,,,,,
+ZF,1,1,,,,,,,,,,
+ZIG,2,2,,,,,,,,,,
+ZKS,1,1,,,,,,,,,,
+ZMN,1,1,,,,,,,,,,
+ZORA,1,1,,,,,,,,,,
+ZRO,1,1,,,,,,,,,,
